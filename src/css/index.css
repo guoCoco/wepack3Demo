@@ -1,0 +1,16 @@
+body {
+  background-color: red;
+  color: #fff;
+}
+#tupian {
+  background-image: url(../images/carefree.jpg);
+  width: 400px;
+  height: 200px;
+  box-shadow: 1px 1px 0 rgba(0,0,0, 0.24);
+  transform: rotate(45deg);
+  border-radius: 50%;
+}
+#aaaaa{
+  background-color: red;
+  color: #fff;
+}
